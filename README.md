@@ -1,6 +1,6 @@
 # ENIGMA MACHINE
 
-<b>The Enigma machine</b> is a complex encryption machine used by the germans in the 2nd World War to encode messages. It is made up of several components:
+<b>The Enigma machine</b> is a complex encryption machine used by the germans in the 2nd World War to encode messages. It is made out of several components:
 
 `1. Plugboard : a physical board that swaps between certain letters.`
 
@@ -43,7 +43,7 @@ x positions, if forward = 1 then it shifts to the right x positions).
 The config matrix will be modified according to the rotor parameter.
 
 Example: \
-If the first two lines from the config matrix contains the configuration of the first rotor, for example \
+If the first two lines from the config matrix contain the configuration of the first rotor, for example \
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z \
 E K M F L G D Q V Z N T O W Y H X U S P A I B R C J \
 and we apply the function: \
